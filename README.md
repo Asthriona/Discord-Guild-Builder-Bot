@@ -2,7 +2,8 @@
 
 Heya!
 Thanks for your interest to this code!
-This is the Yukiko Dev Team's Discord Guilds Creation helper or YDTDGCH for short... yeah Im bad at naming.
+This is the [Yukiko Dev Team](https://Yukiko.app)'s Discord Guilds Creation helper or YDTDGCH for short... yeah Im bad at naming.
+it was firstly made for Eternal Vengeance (Gaming comunity and WoW Guild.)
 
 This is a discord bot thats use to help you create a guild. there is no template or anything, Juste create a temp channel and type your commands.  
 For now this bot can:
