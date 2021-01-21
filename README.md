@@ -32,3 +32,9 @@ I recommand to give it the admin permissions and I **STRONGLY RECOMMAND** to not
 + `delete` Delete the channel you are talking in Eg: `delete`
 + `masscreate` Create a lot of channel at once Eg: `masscreate general exemple-channel-multiple-word` to create 2 channels
 + `nuke` ***Delete ALL THE CHANNELS***
+
+## Credit
+Bot based on Discord.JS  
+We are using the Boilerplate generator [Discord Tools](https://sh.nishikino.xyz/EVoC2Lr5X) for the base
+
+Powered by [Yukiko Dev Team](https://Yukiko.app)
